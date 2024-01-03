@@ -10,11 +10,19 @@
     margin:20;
     padding:10;
     border:10px solid rgb(177, 141, 141);
-    border-radius:15;
+    border-radius:15px;
+    height:200px;
+    width:300px;
 }
 div{
     color:rgb(89, 0, 255);
-    margin:20px;
+    margin:20px 30px 10px 100px;
     padding:10px;
     place-items: center;
+    border:10px solid rgb(179, 255, 0);
+    height:200px;
+    width:300px;
+    overflow-y: scroll;
+    background-color:brown;
+    place-items:center;
 }

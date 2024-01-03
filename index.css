@@ -1,7 +1,10 @@
+
 #head1{
     color:blue;
     background-color:aqua
     margin:10px;
+    text-align:center;
+    text-decoration:underline;
 }
 .a1{
     color:aqua;
@@ -13,16 +16,18 @@
     border-radius:15px;
     height:200px;
     width:300px;
+    
 }
 div{
-    color:rgb(89, 0, 255);
-    margin:20px 30px 10px 100px;
+    color:rgb(179, 255, 0);
+    margin:10px;
     padding:10px;
     place-items: center;
     border:10px solid rgb(179, 255, 0);
     height:200px;
     width:300px;
     overflow-y: scroll;
-    background-color:brown;
+    background-color:rgb(85, 42, 165);
     place-items:center;
+    float: left;
 }
